@@ -1,0 +1,242 @@
+body, html {
+	width: 100%;
+	height: auto;
+}
+.header {
+	background-color: #000041;
+	height: 70px;
+	
+}
+.header > .container {
+	margin-right: 0;
+	margin-left: 0;
+	width: 100%;
+}
+.header-item {
+	font-family: "Roboto";
+	color: #fff;
+}
+.header-item > a {
+	color: #fff;
+}
+.header-menu-item {
+	padding-top: 16px;
+	
+	font-size: 20px;
+}
+.header-menu-item-about {
+	margin-left: 72px;
+}
+.header-menu-item-course {
+	margin-left: 7px;
+}
+.header-menu-item-contacts {
+	margin-left: 25px;
+}
+.header-link-homepage {
+	font-size: 13px;
+	padding-top: 17px;
+	margin-left: 69px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    line-height: 18px;
+}
+
+.btn-sign-up {
+	border-radius: 90px;
+	background-color: #FF0F46;
+	margin-top: 5px;
+	
+	width: 200px;
+	height: 60px;
+	font-size: 19px;
+	padding-left: 22px;
+    padding-bottom: 15px;
+}
+.btn-sign-up-header {
+	margin-left: 79px;
+}
+.block_one {
+	background-image: url(фон.png);
+	background-position-x: 83%;
+    background-position-y: 70%;
+    height: 715px;
+	width: 100%
+}
+.block_one > .container {
+	margin-right: 0;
+	margin-left: 0;
+	width: 100%;
+}
+.header_1_block_one {
+	color: #FF0F46;
+	font-family: "Roboto";
+	font-size: 19px;
+	text-decoration: overline 7px solid #FF0F46;
+    margin-top: 155px;
+    margin-left: 34px;
+    padding-left: 0px;
+    }
+.block_one_header_one {
+	font-size: 41px;
+    font-family: "Roboto";
+    font-weight: bolder;
+    margin-top: 34px;
+    margin-left: 20px;
+    line-height: 49px;
+}
+.block_one_header_two {
+	font-size: 16px;
+    font-weight: bolder;
+    margin-top: 17px;
+    margin-left: 23px;
+    letter-spacing: 1px;
+}
+.btn-sign-up_block_one {
+	width: 201px;
+    height: 61px;
+    margin-top: 50px;
+    margin-left: 20px;
+    padding-right: 30px;
+}
+.text_item {
+	font-size: 18px;
+	padding-top: 36px;
+	margin-left: 4px;
+	font-weight: lighter;
+	margin-bottom: 0;
+}
+.text_item_2 {
+	font-weight: bolder;
+	font-size: 18px;
+	margin-bottom: 0;
+    
+}
+.text_item_price_2 {
+	padding-left: 5px;
+	padding-top: 3px;
+}
+.text_item_duration {
+	margin-left: -74px;
+}
+.text_item_duration_2 {
+	margin-left: -68px;
+}
+.text_item_form {
+	margin-left: -123px;
+    padding-top: 38px;
+}
+.text_item_form_2 {
+	margin-left: -121px;
+	margin-top: -2px;
+}
+.block_one_info {
+	margin-left: 18px;
+}
+.block_two {
+	background-color: #000041;
+	height: 546px;
+}
+.block_two_img {
+	margin-top: 80px;
+	margin-left: 16px;
+}
+.block_two_img_details {
+	padding-left: 37px;
+    width: 417px;
+    height: 337px;
+}
+.block_two_content {
+	margin-top: 71px;
+	margin-left: 107px;
+}
+.header_block_two_info {
+	padding-left: 13px;
+}
+
+.block_three {
+	background-color: #0E0456;
+	height: 661px;
+}
+.block_three_content {
+	padding-top: 54px;
+}
+.header_block_info {
+	font-size: 25px;
+	font-weight: bolder;
+	border-left: 7px solid #FF0F46;
+	
+	padding-bottom: 17px;
+
+}
+.block_info {
+	padding-left: 19px;
+    font-size: 23px;
+    margin-bottom: 0;
+    line-height: 29px;
+    padding-top: 10px;
+}
+.block_info_part2 {
+	line-height: 29px;
+    padding-top: 29px
+}
+.header_block_three_info {
+	margin-left: 17px;
+	padding-left: 5px;
+}
+.block_three_info {
+	margin-bottom: 37px;
+}
+.header_block_three_info2 {
+	margin-left: 18px;
+    padding-left: 4px;
+    margin-bottom: -5px;
+}
+.block_three_info2 {
+	padding-left: 22px;
+}
+.btn_block_three {
+	border-radius: 25px;
+    width: 431px;
+    height: 123px;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 3px;
+    margin-left: -86px;
+    padding-top: 5px;
+    padding-left: 9px;
+    line-height: 29px;
+}
+.footer {
+	background-color: #000041;
+	height: 90px;
+	padding-top: 33px;
+}
+.footer_item_address {
+	font-size: 19px;
+    padding-left: 4px;
+    line-height: 23px;
+    word-spacing: -2px;
+    margin-left: 88px;
+}
+.footer_item_email {
+	font-size: 18px;
+    margin-left: 36px;
+    padding-top: 1px;
+}
+.footer_item_tel {
+	font-size: 19px;
+    padding-top: 1px;
+    margin-left: 81px;
+}
+.footer_social_icons {
+	padding-left: 0px;
+    padding-right: 0;
+    margin-left: 37px;
+    margin-top: 1px;
+}
+.SocialIcons {
+	color: #FF0F46;
+	font-size: 31px;
+	padding-right: 5px;
+}
